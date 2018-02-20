@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Friends Quiz</string>
+
+    <string name="question_1">Who had a lunch together every day for all 10 years of filming?</string>
+    <string name="answer_11">David Schwimmer</string>
+    <string name="answer_12">Jennifer Aniston</string>
+    <string name="answer_13">Courteney Cox</string>
+    <string name="answer_14">Lisa Kudrow</string>
+
+    <string name="question_2">How many hours average Friends episode took to film?</string>
+    <string name="answer_21">Nine</string>
+    <string name="answer_22">Eleven</string>
+    <string name="answer_23">Five</string>
+    <string name="answer_24">Two</string>
+
+    <string name="question_3">In the first season, each of the main six cast members received $22,000 per episode. How much did they earn by the final season?</string>
+    <string name="answer_31">$100,000 per episode</string>
+    <string name="answer_32">$50,000 per episode</string>
+    <string name="answer_33">$200,000 per episode</string>
+    <string name="answer_34">$1,000,000 per episode</string>
+
+    <string name="question_4">How was the show originally called, before becoming Friends?</string>
+    <string name="answer_41">Insomnia Cafe</string>
+    <string name="answer_42">Days of Our Lives</string>
+    <string name="answer_43">Friends Like Us</string>
+    <string name="answer_44">Six of One</string>
+
+    <string name="question_5">Which character didn\'t have a name until the middle of the second season?</string>
+    <string name="type_in_the_answer">Type in the answer</string>
+
+    <string name="question_6">Which actress producers originally wanted to play Rachel?</string>
+    <string name="answer_61">Courteney Cox</string>
+    <string name="answer_62">Monica Bellucci</string>
+    <string name="answer_63">Lisa Kudrow</string>
+    <string name="answer_64">Cameron Diaz</string>
+
+    <string name="question_7">Ross is __ years old for three years.</string>
+    <string name="answer_71" translatable="false">30</string>
+    <string name="answer_72" translatable="false">32</string>
+    <string name="answer_73" translatable="false">36</string>
+    <string name="answer_74" translatable="false">29</string>
+
+    <string name="question_8">Who directed 10 Friends episodes?</string>
+    <string name="answer_81">David Schwimmer</string>
+    <string name="answer_82">Courteney Cox</string>
+    <string name="answer_83">Matthew Perry</string>
+    <string name="answer_84">Jennifer Aniston</string>
+
+    <string name="question_9">Which actress turned down an offer to play Phoebe?</string>
+    <string name="answer_91">Cameron Diaz</string>
+    <string name="answer_92">Ellen DeGeneres</string>
+    <string name="answer_93">Pamela Anderson</string>
+    <string name="answer_94">Drew Barrymore</string>
+
+    <string name="question_10">What is the name of character Joey plays in a soap opera Days of Our Lives?</string>
+    <string name="answer_101">Dr. Blake Ramoray</string>
+    <string name="answer_102">Dr. Blake Memoray</string>
+    <string name="answer_103">Dr. Drake Lemoray</string>
+    <string name="answer_104">Dr. Drake Ramoray</string>
+
+    <string name="welcome_to_the">Welcome to the</string>
+    <string name="friends">Friends</string>
+    <string name="quiz">Quiz</string>
+    <string name="next"><![CDATA[Submit]]></string>
+    <string name="reset_try_again"><![CDATA[RESET & TRY AGAIN]]></string>
+    <string name="score">score</string>
+    <string name="are_you_ready">Are you ready,</string>
+    <string name="name_error">Please enter your name!</string>
+
+    <string name="you_scored">You scored</string>
+    <string name="out_of_10">out of 10!</string>
+
+    <string name="how_you_doin">How YOU doin\'?</string>
+    <string name="they_dont_know">They don\'t know that we know they know we know!</string>
+    <string name="big_deal">Just so you know, it\'s not that common, it doesn\'t happen to every guy, and it is a big deal!</string>
+
+    <string name="show_me_score">SHOW ME SCORE</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="_10_10">10/10</string>
+    <string name="_9_10">9/10</string>
+    <string name="_8_10">8/10</string>
+    <string name="_7_10">7/10</string>
+    <string name="_6_10">6/10</string>
+    <string name="_5_10">5/10</string>
+    <string name="_4_10">4/10</string>
+    <string name="_3_10">3/10</string>
+    <string name="_2_10">2/10</string>
+    <string name="_1_10">1/10</string>
+
+    <string name="start_quiz">Start Quiz</string>
+    <string name="please_enter_your_name_to_start_quiz">Please enter your name to start quiz!</string>
+
+
+</resources>

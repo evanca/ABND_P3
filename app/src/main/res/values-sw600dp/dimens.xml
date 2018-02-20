@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="button_margin_text_start_end_8dp">8dp</dimen>
+    <dimen name="answer_margin_start_16dp">16dp</dimen>
+    <dimen name="answer_padding_start_24dp">24dp</dimen>
+    <dimen name="question_padding_top_48dp">48dp</dimen>
+    <dimen name="question_circle_diameter_50dp">50dp</dimen>
+    <dimen name="large_button_width_200dp">200dp</dimen>
+    <dimen name="name_text_size_34sp">34sp</dimen>
+    <dimen name="logo_text_size_54sp">154sp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="circle_diameter">50dp</dimen>
+
+</resources>

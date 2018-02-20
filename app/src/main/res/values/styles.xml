@@ -1,0 +1,140 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:background">#F5F3F3</item>
+    </style>
+
+    <style name="quiz_name">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:fontFamily">@font/covered_by_your_grace</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/title</item>
+        <item name="android:textScaleX">1.2</item>
+        <item name="android:textSize">@dimen/logo_text_size_54sp</item>
+    </style>
+
+    <style name="enter_your_name">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/answer_padding_start_24dp</item>
+        <item name="android:layout_marginTop">@dimen/answer_padding_start_24dp</item>
+        <item name="android:cursorVisible">false</item>
+        <item name="android:gravity">center</item>
+        <item name="android:imeOptions">actionDone</item>
+        <item name="android:inputType">textCapWords</item>
+    </style>
+
+    <style name="main_button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">@dimen/answer_padding_start_24dp</item>
+    </style>
+
+    <style name="yellow_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_marginTop">@dimen/answer_padding_start_24dp</item>
+        <item name="android:background">#FFDF70</item>
+    </style>
+
+    <style name="question_layout_old">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingTop">@dimen/answer_padding_start_24dp</item>
+    </style>
+
+    <style name="question_number_blush">
+        <item name="android:layout_width">@dimen/question_circle_diameter_50dp</item>
+        <item name="android:layout_height">@dimen/question_circle_diameter_50dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">@dimen/button_margin_text_start_end_8dp</item>
+        <item name="android:background">@drawable/circle_blush</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="question_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">@dimen/button_margin_text_start_end_8dp</item>
+        <item name="android:paddingEnd">@dimen/button_margin_text_start_end_8dp</item>
+        <item name="android:paddingLeft">@dimen/button_margin_text_start_end_8dp</item>
+        <item name="android:paddingStart">@dimen/button_margin_text_start_end_8dp</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+    </style>
+
+    <style name="checkbox_answer">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/answer_margin_start_16dp</item>
+        <item name="android:paddingStart">@dimen/answer_padding_start_24dp</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+
+    <style name="question_number_yellow">
+        <item name="android:layout_width">@dimen/question_circle_diameter_50dp</item>
+        <item name="android:layout_height">@dimen/question_circle_diameter_50dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">@dimen/button_margin_text_start_end_8dp</item>
+        <item name="android:background">@drawable/circle_yellow</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="blush_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_marginTop">@dimen/answer_padding_start_24dp</item>
+        <item name="android:background">#F29596</item>
+    </style>
+
+    <style name="question_layout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingTop">@dimen/question_padding_top_48dp</item>
+    </style>
+
+    <style name="question_number_blue">
+        <item name="android:layout_width">@dimen/question_circle_diameter_50dp</item>
+        <item name="android:layout_height">@dimen/question_circle_diameter_50dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">@dimen/button_margin_text_start_end_8dp</item>
+        <item name="android:background">@drawable/circle_blue</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="show_your_name">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/answer_margin_start_16dp</item>
+        <item name="android:textColor">@color/name</item>
+        <item name="android:textSize">@dimen/name_text_size_34sp</item>
+    </style>
+
+    <style name="large_button">
+        <item name="android:layout_width">@dimen/large_button_width_200dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">@dimen/answer_padding_start_24dp</item>
+    </style>
+
+    <style name="blue_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_marginTop">@dimen/answer_padding_start_24dp</item>
+        <item name="android:background">#7CDAF2</item>
+    </style>
+
+</resources>
